@@ -50,7 +50,6 @@ body{
     align-items: flex-start;
 }
 .heading{
-     text-underline-offset: 10px;
      padding-bottom: 20px;
     font-size: 40px;
     color: black;
